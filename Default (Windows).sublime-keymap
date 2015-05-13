@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+1+2"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+]
