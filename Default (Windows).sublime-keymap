@@ -1,4 +1,5 @@
 [
-    { "keys": ["ctrl+1+2"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-
+    // Anaconda settings
+    { "keys": ["f12"], "command": "anaconda_get_lines" },
+    { "keys": ["f8"], "command": "anaconda_run_current_file_tests" },
 ]
